@@ -31,7 +31,7 @@ logoFile="logo.png" #optional
 # A text field displayed in the mod UI
 credits="Thanks Color Palette Team. We have met good people." #optional
 # A text field displayed in the mod UI
-authors="MeronDev,fkdsny,Aokuzira rui" #optional
+authors="MeronDev,fkdsny,Aokuzira rui,and More" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 This is a long form description of the mod. You can write whatever you want here
