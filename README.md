@@ -3,4 +3,4 @@ Bread Adventureは世界中に存在する様々なものを組み合わせ、�
 現在1.16.5 Forgeで開発されており、ここはAlpha版のリポジトリです。正式版が出たら新リポジトリに更新します。<br>
 # CHANGELOGS
 <h2>v0.1.0</h2><br>
-Initial Alpha Release.COMING SOON
+Initial Alpha Release   COMING SOON
